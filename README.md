@@ -16,5 +16,5 @@ Accuracy: 96.15%
 Precision: 96.28%
 Recall: 96.15%
 
-##🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! Feel free to submit a pull request if you'd like to improve the model or add more features.
